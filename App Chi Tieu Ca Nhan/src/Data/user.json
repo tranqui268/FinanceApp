@@ -1,0 +1,11 @@
+{
+  "account" : {
+    "username" : "usertest@gmail.com",
+    "password" : "12345"
+  },
+  "infor":{
+    "name" : "Nguyen Van A",
+    "phone" : "0123456789",
+    "address" : "Ho Chi Minh city"
+  }
+}
